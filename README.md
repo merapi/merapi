@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been working on the Google Web Stories WYSIWYG Editor for the last 3 years and I am now looking for a new exciting project for 2024 and beyond - contact me [here](mailto:marcin@webskill.pl?subject=[GitHub]%20Let's%20work%20together) or on [LinkedIn](https://www.linkedin.com/in/merapi/).
+I've been working on the Google Web Stories WYSIWYG Editor for the last 3 years and I am now looking for a new exciting project for 2025 and beyond - contact me [here](mailto:marcin@webskill.pl?subject=[GitHub]%20Let's%20work%20together) or on [LinkedIn](https://www.linkedin.com/in/merapi/).
 
 https://wp.stories.google/
 
